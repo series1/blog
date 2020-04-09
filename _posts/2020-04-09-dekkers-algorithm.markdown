@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dekker's Algorithm"
-date: 2020-03-08 10:32:20
+date: 2020-04-09 10:32:20
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: dekker_turn.svg # Add image post (optional)
 fig-caption: Dekker's algorithm by turn # Add figcaption (optional)
