@@ -268,3 +268,15 @@ Dekker's algorithm!
 
 
 [PDF printed article]({{site.baseurl}}/assets/img/Dekkers_Algorithm-Adrian_de_Mesquita.pdf)
+
+---------
+
+## Tools Used
+
+1.	**Python3** for generating the transition system's state space, LTL node labelling to
+	support analysis and conversion to graphviz dot format.
+1.	**graphviz** for the small graphs using either dot or neato, along with manual formatting.
+1.	**gephi** for laying-out larger graphs and exploring structure in parallel with the algebra.
+1.	**inkscape** for adjusting graphics for the web.
+1.	**C++11/14/17** for implementation and timing analysis (also for a future post!).
+
