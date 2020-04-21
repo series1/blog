@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Dekker's Algorithm"
-date: 2020-04-09 10:32:20
+title: "Lock-free Programming: Dekker's Algorithm"
+date: 2020-04-20 10:32:20
 description: Proving concurrency algorithms using formal methods. # Add post description (optional)
 img: dekker_turn.svg # Add image post (optional)
 fig-caption: Dekker's algorithm by turn # Add figcaption (optional)
