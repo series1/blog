@@ -21,8 +21,8 @@ social-email: # add your Email address
 # Disqus
 discus-identifier: https-series1-github-io-blog # add your discus identifier
 
-# Tracker
-analytics: # Google Analytics
+# Tracker Google Analytics
+analytics: UA-164158735-1
 
 # Build Settings
 markdown: kramdown
